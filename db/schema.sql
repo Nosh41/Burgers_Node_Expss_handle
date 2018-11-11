@@ -1,9 +1,3 @@
--- @author: Sergio Tapia
--- @github: Nosh41
--- @comment: Homework Burger!
-
-
-
 -- Database Creation
 CREATE DATABASE burgers_db;
 
