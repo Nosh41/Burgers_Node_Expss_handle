@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomtom28/burger.git"
+    "url": "git+https://github.com/Nosh41/Burgers_Node_Expss_handle"
   },
-  "author": "tomtom28",
+  "author": "Nosh41",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tomtom28/burger/issues"
+    "url": "https://github.com/Nosh41/Burgers_Node_Expss_handle"
   },
-  "homepage": "https://github.com/tomtom28/burger#readme",
+  "homepage": "#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
