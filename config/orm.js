@@ -1,9 +1,3 @@
-// @author: Sergio Tapia
-// @github: Nosh41
-// @comment: Homework Burger!
-
-
-
 // Import Node Dependencies
 var connection = require('./connection.js');
 
