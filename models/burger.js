@@ -1,9 +1,3 @@
-// @author: Thomas Thompson
-// @github: tomtom28
-// @comment: Homework 14 - Eat the Burger!
-
-
-
 // Node Dependency
 var orm = require('../config/orm.js');
 
@@ -17,8 +11,8 @@ var burger = {
     });
   },
 
-  insertOne: function(burger_name, callback){
-    orm.insertOne(burger_name, function(res){
+  insertOne: function(burger_chida, callback){
+    orm.insertOne(burger_chida, function(res){
       callback(res);
     });
   },
