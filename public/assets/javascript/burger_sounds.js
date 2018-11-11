@@ -1,8 +1,3 @@
-// @author: Sergio Tapia
-// @github: Nosh41
-// @comment: Homework Burger!
-
-
 
 // This file is just some extra flair to the project
 // Funny sound effects using jQuery click listener
