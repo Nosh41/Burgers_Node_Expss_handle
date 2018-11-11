@@ -1,9 +1,3 @@
--- @author: Sergio Tapia
--- @github: Nosh41
--- @comment: Homework Burger!
-
-
-
 -- Seed Burgers into Database ... No Sesame! (hehehe)
 INSERT INTO burgers(burger_chida, devoured, date)
 VALUES ("Big Mac", false, "2016-11-05 04:20:00"),
