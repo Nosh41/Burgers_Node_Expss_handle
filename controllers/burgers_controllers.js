@@ -1,9 +1,3 @@
-// @author: Thomas Thompson
-// @github: tomtom28
-// @comment: Homework 14 - Eat the Burger!
-
-
-
 // Node Dependencies
 var express = require('express');
 var router = express.Router();
@@ -30,7 +24,7 @@ router.get('/index', function (req, res) {
 
 // Create a New Burger
 router.post('/burger/create', function (req, res) {
-  burger.insertOne(req.body.burger_name, function() {
+  burger.insertOne(req.body.burger_chida, function() {
     res.redirect('/index');
   });
 });
